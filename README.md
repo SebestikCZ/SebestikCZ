@@ -1,5 +1,5 @@
 # Šebestíček
-I'm glad to welcome you here!
+I'm glad to welcome you here! Here are my stats on GitHub:
 
 [![SebestikCZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebestikCZ&show_icons=true&layout=compact&theme=dark)](https://github.com/SebestikCZ)]
 
